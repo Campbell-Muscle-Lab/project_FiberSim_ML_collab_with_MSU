@@ -1,0 +1,14 @@
+title: FiberSim_ML_collaboration_with_MSU
+description: Simulation data for machine learning
+theme: just-the-docs
+
+url: https://campbell-muscle-lab.github.io/project_FiberSim_ML_collab_with_MSU
+
+aux_links:
+  FiberVent repo: https://github.com/Campbell-Muscle-Lab/project_FiberSim_ML_collab_with_MSU
+
+plugins:
+  - jekyll-default-layout
+
+mermaid:
+  version: "9.1.3"
