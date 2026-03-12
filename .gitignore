@@ -513,5 +513,8 @@ simulations/**/sim_data/**/*.*
 simulations/**/generated/**/*.*
 simulations/**/generated_char/**/*.*
 
+!simulations/**/generated/**/*.xlsx
+
+
 
 
